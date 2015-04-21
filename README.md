@@ -1,9 +1,12 @@
 # hello-world
 初めてのレポジトリーです
 
+This is first repository.
 
 
 こんにちは
+
+Hi!
 
 * else
 * ほかにもやりましょうか
